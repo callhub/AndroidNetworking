@@ -129,12 +129,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-//    Example of using Async Task
+    //Example of using Async Task
 //    @Override
 //    protected void onCreate(Bundle savedInstanceState) {
 //        super.onCreate(savedInstanceState);
 //        MyAsync myTask = new MyAsync(this);
-//        myTask.execute("http://developer.android.com");
+//        myTask.execute("https://api.callhub.io/v2/conference/");
 //    }
 
 
